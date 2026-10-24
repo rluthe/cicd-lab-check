@@ -1,0 +1,15 @@
+{
+  "name": "devops-cicd-template",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for the DevOps CI/CD laboratory (GitHub Actions + AWS CodePipeline + AWS Elastic Beanstalk)",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
